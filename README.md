@@ -1,3 +1,4 @@
+![Imagen fondo1](https://github.com/user-attachments/assets/e33cb1f6-94f1-469f-9c04-de5f137fbf23)
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there,+nice+to+see+you!&center=true&width=360&height=30">
   

@@ -1,5 +1,4 @@
 ![Imagen fondo1](https://github.com/user-attachments/assets/e33cb1f6-94f1-469f-9c04-de5f137fbf23)
-
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there,+nice+to+see+you!&center=true&width=360&height=30">
   
@@ -17,10 +16,19 @@
 
 <table style="border: transparent; width: 100%">
   <tr style="border: transparent;">
-    <td width="70%" style="border: transparent;">
-      <h3>Development:</h3>
+    <td width="70%" align="center" style="border: transparent;">
+      <h4 style="padding: 0;">DEVELOPMENT:</h4>
       <p align="left">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+      </p>
+    </td>
+    <td width="30%" align="center" style="border: transparent;">
+      <h4 style="padding: 0;">TESTING:</h4>
+    </td>
+  </tr>
+  <tr style="border: transparent;">
+    <td width="70%" align="center" style="border: transparent;">
+      <p align="left">
+       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -37,12 +45,11 @@
         <img src="https://img.shields.io/badge/-MockAPI-FF6C37?style=flat&logoColor=white">
         <img src="http://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white">
         <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
-      </p>
+          </p>
     </td>
-    <td width="30%" style="border: transparent;">
-      <h3>Testing:</h3>
+    <td width="30%" align="center" style="border: transparent;">
       <p align="left">
-        <img src="https://img.shields.io/badge/-Inflectra-F9A91B?style=flat&logo=SpiraPlan&logoColor=white">
+         <img src="https://img.shields.io/badge/-Inflectra-F9A91B?style=flat&logo=SpiraPlan&logoColor=white">
         <img src="https://img.shields.io/badge/-SpiraPlan-F9A91B?style=flat&logo=SpiraPlan&logoColor=white">
         <img src="https://img.shields.io/badge/-Rapise-1B5FA5?style=flat&logo=Rapise&logoColor=white">
         <img src="https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=Apache%20JMeter&logoColor=white">
@@ -51,10 +58,6 @@
     </td>
   </tr>
 </table>
-<p align="right">
-  <sub>&copy; 2024 <a href="https://github.com/gabox2002">gabox2002</a></sub>
-</p>
-
 
 
 <!--

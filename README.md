@@ -3,11 +3,11 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there,+nice+to+see+you!&center=true&width=360&height=30">
   
-#### 🙋‍♂️ I'm Gabriel from Caracas, Venezuela ![Bandera de Venezuela](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/18px-Flag_of_Venezuela.svg.png) currently living in Buenos Aires, Argentina ![Bandera de Argentina](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/18px-Flag_of_Argentina.svg.png)
+##### 🙋‍♂️ I'm Gabriel from Caracas, Venezuela ![Bandera de Venezuela](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/18px-Flag_of_Venezuela.svg.png) currently living in Buenos Aires, Argentina ![Bandera de Argentina](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/18px-Flag_of_Argentina.svg.png)
 
-#### 📖 As a university student, my passion for technological software development and quality in QA testing drives me to constantly seek new challenges. I have the ability to learn and apply knowledge quickly and effectively.
+##### 📖 As a university student, my passion for technological software development and quality in QA testing motivates me to constantly seek new challenges. I have the ability to learn and apply knowledge quickly and effectively.
 
-#### 💼 I am currently actively seeking career opportunities that will allow me to expand my skills and gain invaluable experience in this dynamic field.
+##### 💼 I am currently actively seeking career opportunities that will allow me to expand my skills and gain invaluable experience in this dynamic field.
 </p>
 
 ##### 💬 Connect with me! 👉 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabox2002/) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/gabriel.quispe) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gabox2002@gmail.com)
@@ -51,8 +51,11 @@
     </td>
   </tr>
 </table>
+<p align="right">
+  <sub>&copy; 2024 <a href="https://github.com/gabox2002">gabox2002</a></sub>
+</p>
 
-#### ⭐️ From [gabox2002](https://github.com/gabox2002) 
+
 
 <!--
 **gabox2002/gabox2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

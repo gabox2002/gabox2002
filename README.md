@@ -1,4 +1,3 @@
-![Imagen fondo1](https://github.com/user-attachments/assets/e33cb1f6-94f1-469f-9c04-de5f137fbf23)
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there,+nice+to+see+you!&center=true&width=360&height=30">
   
@@ -9,26 +8,18 @@
 ##### 💼 I am currently actively seeking career opportunities that will allow me to expand my skills and gain invaluable experience in this dynamic field.
 </p>
 
-##### 💬 Connect with me! 👉 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabox2002/) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/gabriel.quispe) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gabox2002@gmail.com)
+##### 💬 Connect with me! 👉 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabox2002/) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/gabriel.quispe) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gabox2002@gmail.com) [![Chrome](https://img.shields.io/badge/Visit%20my%20website-%230A66C2?style=flat&logo=Google-Chrome&logoColor=white)](https://)
+
 
 ***
 ### <p align="center">💻 Technologies and Tools I use...</p>
 
 <table style="border: transparent; width: 100%">
   <tr style="border: transparent;">
-    <td width="70%" align="center" style="border: transparent;">
+    <td width="50%" align="center" style="border: transparent;">
       <h4 style="padding: 0;">DEVELOPMENT:</h4>
       <p align="left">
-      </p>
-    </td>
-    <td width="30%" align="center" style="border: transparent;">
-      <h4 style="padding: 0;">TESTING:</h4>
-    </td>
-  </tr>
-  <tr style="border: transparent;">
-    <td width="70%" align="center" style="border: transparent;">
-      <p align="left">
-       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -45,11 +36,12 @@
         <img src="https://img.shields.io/badge/-MockAPI-FF6C37?style=flat&logoColor=white">
         <img src="http://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white">
         <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
-          </p>
+      </p>
     </td>
-    <td width="30%" align="center" style="border: transparent;">
+    <td width="50%" align="center" style="border: transparent;">
+      <h4 style="padding: 0;">TESTING:</h4>
       <p align="left">
-         <img src="https://img.shields.io/badge/-Inflectra-F9A91B?style=flat&logo=SpiraPlan&logoColor=white">
+        <img src="https://img.shields.io/badge/-Inflectra-F9A91B?style=flat&logo=SpiraPlan&logoColor=white">
         <img src="https://img.shields.io/badge/-SpiraPlan-F9A91B?style=flat&logo=SpiraPlan&logoColor=white">
         <img src="https://img.shields.io/badge/-Rapise-1B5FA5?style=flat&logo=Rapise&logoColor=white">
         <img src="https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=Apache%20JMeter&logoColor=white">
@@ -59,6 +51,9 @@
   </tr>
 </table>
 
+<p align="right">
+  <sub>&copy; 2024 <a href="https://github.com/gabox2002">gabox2002</a></sub>
+</p>
 
 <!--
 **gabox2002/gabox2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

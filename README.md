@@ -61,7 +61,7 @@
 </table>
 
 <p align="right">
-  <sub>&copy; 2024 <a href="https://github.com/gabox2002">gabox2002</a></sub>
+  <sub>&copy; 2024 gabox2002</sub>
 </p>
 
 <!--

@@ -6,7 +6,7 @@
 
 ##### 📖 As a university student, my passion for technological software development and quality in QA testing motivates me to constantly seek new challenges. I have the ability to learn and apply knowledge quickly and effectively.
 
-##### 💼 I am currently actively seeking career opportunities that will allow me to expand my skills and gain invaluable experience in this dynamic field.
+##### 💼 I'm currently actively seeking career opportunities that will allow me to expand my skills and gain invaluable experience in this dynamic field.
 </p>
 
 ##### 💬 Connect with me! 👉 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabox2002/) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/gabriel.quispe) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gabox2002@gmail.com) [![Chrome](https://img.shields.io/badge/Visit%20my%20website-%230A66C2?style=flat&logo=Google-Chrome&logoColor=white)](https://)

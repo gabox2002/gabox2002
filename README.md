@@ -12,7 +12,7 @@
 ##### 💬 Connect with me! 👉 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabox2002/) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/gabriel.quispe) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gabox2002@gmail.com)
 
 ***
-### <p align="center">💻 Languages and Tools...</p>
+### <p align="center">💻 Technologies and Tools I use...</p>
 
 <table style="border: transparent; width: 100%">
   <tr style="border: transparent;">
